@@ -13,28 +13,44 @@
       "slug": "steelers",
       "owner": "CPU-1",
       "division": "North",
-      "logo": "steelers.svg"
+      "logo": "pittsburgh-steelers-logo.png",
+      "primary": "#000000",
+      "secondary": "#FFB612",
+      "conference": "AFC",
+      "main_rival": "ravens"
     },
     {
       "name": "Ravens",
       "slug": "ravens",
       "owner": "CPU-2",
       "division": "North",
-      "logo": "ravens.svg"
+      "logo": "baltimore-ravens-logo.png",
+      "primary": "#241773",
+      "secondary": "#000000",
+      "conference": "AFC",
+      "main_rival": "steelers"
     },
     {
       "name": "Browns",
       "slug": "browns",
       "owner": "CPU-3",
       "division": "North",
-      "logo": "browns.svg"
+      "logo": "cleveland-browns-logo.png",
+      "primary": "#311D00",
+      "secondary": "#FF3C00",
+      "conference": "AFC",
+      "main_rival": "bengals"
     },
     {
       "name": "Bengals",
       "slug": "bengals",
       "owner": "CPU-4",
       "division": "North",
-      "logo": "bengals.svg"
+      "logo": "cincinnati-bengals-logo.png",
+      "primary": "#FB4F14",
+      "secondary": "#000000",
+      "conference": "AFC",
+      "main_rival": "browns"
     },
     {
       "name": "Chicago Slide",
@@ -51,70 +67,110 @@
       "slug": "bills",
       "owner": "CPU-6",
       "division": "East",
-      "logo": "bills.svg"
+      "logo": "buffalo-bills-logo.png",
+      "primary": "#00338D",
+      "secondary": "#C60C30",
+      "conference": "AFC",
+      "main_rival": "dolphins"
     },
     {
       "name": "Patriots",
       "slug": "patriots",
       "owner": "CPU-7",
       "division": "East",
-      "logo": "patriots.svg"
+      "logo": "new-england-patriots-logo.png",
+      "primary": "#002244",
+      "secondary": "#C60C30",
+      "conference": "AFC",
+      "main_rival": "jets"
     },
     {
       "name": "Jets",
       "slug": "jets",
       "owner": "CPU-8",
       "division": "East",
-      "logo": "jets.svg"
+      "logo": "new-york-jets-logo.png",
+      "primary": "#125740",
+      "secondary": "#000000",
+      "conference": "AFC",
+      "main_rival": "patriots"
     },
     {
       "name": "Dolphins",
       "slug": "dolphins",
       "owner": "CPU-9",
       "division": "East",
-      "logo": "dolphins.svg"
+      "logo": "miami-dolphins-logo.png",
+      "primary": "#008E97",
+      "secondary": "#FC4C02",
+      "conference": "AFC",
+      "main_rival": "bills"
     },
     {
       "name": "Jaguars",
       "slug": "jaguars",
       "owner": "CPU-10",
       "division": "South",
-      "logo": "jaguars.svg"
+      "logo": "jacksonville-jaguars-logo.png",
+      "primary": "#006778",
+      "secondary": "#D7A22A",
+      "conference": "AFC",
+      "main_rival": "titans"
     },
     {
       "name": "Colts",
       "slug": "colts",
       "owner": "CPU-11",
       "division": "South",
-      "logo": "colts.svg"
+      "logo": "indianapolis-colts-logo.png",
+      "primary": "#002C5F",
+      "secondary": "#A2AAAD",
+      "conference": "AFC",
+      "main_rival": "texans"
     },
     {
       "name": "Texans",
       "slug": "texans",
       "owner": "CPU-12",
       "division": "South",
-      "logo": "texans.svg"
+      "logo": "houston-texans-logo.png",
+      "primary": "#03202F",
+      "secondary": "#A71930",
+      "conference": "AFC",
+      "main_rival": "colts"
     },
     {
       "name": "Titans",
       "slug": "titans",
       "owner": "CPU-13",
       "division": "South",
-      "logo": "titans.svg"
+      "logo": "tennessee-titans-logo.png",
+      "primary": "#0C2340",
+      "secondary": "#4B92DB",
+      "conference": "AFC",
+      "main_rival": "jaguars"
     },
     {
       "name": "Broncos",
       "slug": "broncos",
       "owner": "CPU-14",
       "division": "West",
-      "logo": "broncos.svg"
+      "logo": "denver-broncos-logo.png",
+      "primary": "#FB4F14",
+      "secondary": "#002244",
+      "conference": "AFC",
+      "main_rival": "chargers"
     },
     {
       "name": "Chargers",
       "slug": "chargers",
       "owner": "CPU-15",
       "division": "West",
-      "logo": "chargers.svg"
+      "logo": "los-angeles-chargers-logo.png",
+      "primary": "#0080C6",
+      "secondary": "#FFC20E",
+      "conference": "AFC",
+      "main_rival": "broncos"
     },
     {
       "name": "Houston Oilers",
@@ -151,14 +207,22 @@
       "slug": "chiefs",
       "owner": "CPU-19",
       "division": "West",
-      "logo": "chiefs.svg"
+      "logo": "kansas-city-chiefs-logo.png",
+      "primary": "#E31837",
+      "secondary": "#FFB81C",
+      "conference": "AFC",
+      "main_rival": "raiders"
     },
     {
       "name": "Raiders",
       "slug": "raiders",
       "owner": "CPU-20",
       "division": "West",
-      "logo": "raiders.svg"
+      "logo": "oakland-raiders-logo.png",
+      "primary": "#000000",
+      "secondary": "#A5ACAF",
+      "conference": "AFC",
+      "main_rival": "chiefs"
     }
   ]
 }
