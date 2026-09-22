@@ -60,7 +60,10 @@
       "logo": "chicago-slide.svg",
       "alternate_names": [
         "SLIDE"
-      ]
+      ],
+      "primary": "#041E42",
+      "secondary": "#FFFFFF",
+      "main_rival": "Houston Oilers"
     },
     {
       "name": "Bills",
@@ -180,7 +183,10 @@
       "logo": "houston-oilers.svg",
       "alternate_names": [
         "OILERS"
-      ]
+      ],
+      "primary": "#14213D",
+      "secondary": "#CE1126",
+      "main_rival": "Chicago Slide"
     },
     {
       "name": "Old City Old Browns",
@@ -190,7 +196,10 @@
       "logo": "old-city-old-browns.svg",
       "alternate_names": [
         "OLD BROWNS"
-      ]
+      ],
+      "primary": "#F47321",
+      "secondary": "#005030",
+      "main_rival": "New Jersey Gang"
     },
     {
       "name": "New Jersey Gang",
@@ -200,7 +209,10 @@
       "logo": "new-jersey-gang.svg",
       "alternate_names": [
         "GANG"
-      ]
+      ],
+      "primary": "#CC0000",
+      "secondary": "#000000",
+      "main_rival": "Old City Old Browns"
     },
     {
       "name": "Chiefs",
