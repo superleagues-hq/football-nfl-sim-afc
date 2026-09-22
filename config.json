@@ -1,0 +1,164 @@
+{
+  "league_slug": "football-nfl-sim-afc",
+  "display_name": "NFL Sim \u2014 AFC",
+  "sport": "football",
+  "format": "nfl-sim",
+  "platform": "espn",
+  "platform_league_id": "1615317046",
+  "conference": "AFC",
+  "conference_partner_slug": "football-nfl-sim-nfc",
+  "teams": [
+    {
+      "name": "Steelers",
+      "slug": "steelers",
+      "owner": "CPU-1",
+      "division": "North",
+      "logo": "steelers.svg"
+    },
+    {
+      "name": "Ravens",
+      "slug": "ravens",
+      "owner": "CPU-2",
+      "division": "North",
+      "logo": "ravens.svg"
+    },
+    {
+      "name": "Browns",
+      "slug": "browns",
+      "owner": "CPU-3",
+      "division": "North",
+      "logo": "browns.svg"
+    },
+    {
+      "name": "Bengals",
+      "slug": "bengals",
+      "owner": "CPU-4",
+      "division": "North",
+      "logo": "bengals.svg"
+    },
+    {
+      "name": "Chicago Slide",
+      "slug": "chicago-slide",
+      "owner": "CPU-5",
+      "division": "North",
+      "logo": "chicago-slide.svg",
+      "alternate_names": [
+        "SLIDE"
+      ]
+    },
+    {
+      "name": "Bills",
+      "slug": "bills",
+      "owner": "CPU-6",
+      "division": "East",
+      "logo": "bills.svg"
+    },
+    {
+      "name": "Patriots",
+      "slug": "patriots",
+      "owner": "CPU-7",
+      "division": "East",
+      "logo": "patriots.svg"
+    },
+    {
+      "name": "Jets",
+      "slug": "jets",
+      "owner": "CPU-8",
+      "division": "East",
+      "logo": "jets.svg"
+    },
+    {
+      "name": "Dolphins",
+      "slug": "dolphins",
+      "owner": "CPU-9",
+      "division": "East",
+      "logo": "dolphins.svg"
+    },
+    {
+      "name": "Jaguars",
+      "slug": "jaguars",
+      "owner": "CPU-10",
+      "division": "South",
+      "logo": "jaguars.svg"
+    },
+    {
+      "name": "Colts",
+      "slug": "colts",
+      "owner": "CPU-11",
+      "division": "South",
+      "logo": "colts.svg"
+    },
+    {
+      "name": "Texans",
+      "slug": "texans",
+      "owner": "CPU-12",
+      "division": "South",
+      "logo": "texans.svg"
+    },
+    {
+      "name": "Titans",
+      "slug": "titans",
+      "owner": "CPU-13",
+      "division": "South",
+      "logo": "titans.svg"
+    },
+    {
+      "name": "Broncos",
+      "slug": "broncos",
+      "owner": "CPU-14",
+      "division": "West",
+      "logo": "broncos.svg"
+    },
+    {
+      "name": "Chargers",
+      "slug": "chargers",
+      "owner": "CPU-15",
+      "division": "West",
+      "logo": "chargers.svg"
+    },
+    {
+      "name": "Houston Oilers",
+      "slug": "houston-oilers",
+      "owner": "CPU-16",
+      "division": "South",
+      "logo": "houston-oilers.svg",
+      "alternate_names": [
+        "OILERS"
+      ]
+    },
+    {
+      "name": "Old City Old Browns",
+      "slug": "old-city-old-browns",
+      "owner": "CPU-17",
+      "division": "West",
+      "logo": "old-city-old-browns.svg",
+      "alternate_names": [
+        "OLD BROWNS"
+      ]
+    },
+    {
+      "name": "New Jersey Gang",
+      "slug": "new-jersey-gang",
+      "owner": "CPU-18",
+      "division": "East",
+      "logo": "new-jersey-gang.svg",
+      "alternate_names": [
+        "GANG"
+      ]
+    },
+    {
+      "name": "Chiefs",
+      "slug": "chiefs",
+      "owner": "CPU-19",
+      "division": "West",
+      "logo": "chiefs.svg"
+    },
+    {
+      "name": "Raiders",
+      "slug": "raiders",
+      "owner": "CPU-20",
+      "division": "West",
+      "logo": "raiders.svg"
+    }
+  ]
+}
